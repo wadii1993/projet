@@ -1,0 +1,5 @@
+{
+  "db": "mongodb+srv://wadiisahnoun:11032301@cluster0.rrshgj4.mongodb.net/PROJETDB?retryWrites=true&w=majority",
+  "secret": "shhhh top secret",
+  "PORT": "7000"
+}
